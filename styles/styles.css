@@ -1,7 +1,15 @@
 body {
-  background-color: rgb(154, 250, 229);
+  background-color: #f8e8a6;
+  text-align: center;
+  margin: 10px;
 }
 h1 {
-  text-align: center;
   color: rgb(10, 91, 105);
+}
+.contact-link a {
+  color: green;
+  margin: 0 10px;
+}
+img {
+  max-width: 70%;
 }
